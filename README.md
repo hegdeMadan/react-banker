@@ -26,7 +26,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Deployment
 This react-app is hosted on [Firebase](http://firebase.google.com)
 
-Check out the official [doucumentaion](https://firebase.google.com/docs/web/setup) for web-setup
+Check out the official [documentaion](https://firebase.google.com/docs/web/setup) for web-setup
 
 ## Working process
 This app lets user to choose the specic amount of loan for a period of time and calculates the `Interest Rate` and `Monthly Payment` one has to make
